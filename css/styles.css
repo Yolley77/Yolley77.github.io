@@ -18,7 +18,7 @@ header {
     font-size: 24pt;
     text-align: center;
     font-weight: bold;
-    padding-top: 10pt;
+    padding: 10pt;
 }
 
 .content {
