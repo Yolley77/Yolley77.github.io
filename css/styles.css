@@ -1,0 +1,53 @@
+html {
+    background: linear-gradient( 90deg, rgb(231, 231, 228), rgb(150, 147, 150));
+}
+
+A {
+    color: black;
+}
+
+A:visited {
+    color: black;
+}
+
+A:active {
+    color: red;
+}
+
+header {
+    font-size: 24pt;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10pt;
+}
+
+.content {
+    font-size: 20pt;
+    font-weight: normal;
+    text-align: center;
+    color: black;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul a {
+    border: 1px solid #000;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#portfolio {
+    font-size: 14pt;
+}
+
+.p_title {
+    font-size: 16pt;
+    font-weight: bolder;
+}
+
+.p_subtitle {
+    color: rgb(107, 100, 100);
+}
