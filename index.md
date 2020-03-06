@@ -12,7 +12,7 @@
         <div class="content">
             <nav>
                 <ul>
-                    <li><a href="index.html">Основная информация</a></li>
+                    <li><a href="index.md">Основная информация</a></li>
                     <li><a href="explanatoryPage.html">Пояснительная записка</a></li>
                 </ul>
             </nav>
