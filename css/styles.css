@@ -1,16 +1,16 @@
 html {
-    background: linear-gradient( 90deg, rgb(231, 231, 228), rgb(150, 147, 150));
+    /*background: linear-gradient( 90deg, rgb(231, 231, 228), rgb(150, 147, 150));*/
 }
 
-A {
+a {
     color: black;
 }
 
-A:visited {
+a:visited {
     color: black;
 }
 
-A:active {
+a:active {
     color: red;
 }
 
@@ -18,7 +18,7 @@ header {
     font-size: 24pt;
     text-align: center;
     font-weight: bold;
-    padding: 10pt;
+    padding: 10px;
 }
 
 .content {
@@ -39,15 +39,19 @@ nav ul a {
     padding: 10px;
 }
 
-#portfolio {
+.portfolio {
     font-size: 14pt;
 }
 
 .p_title {
-    font-size: 16pt;
+    font-size: 24pt;
     font-weight: bolder;
 }
 
 .p_subtitle {
     color: rgb(107, 100, 100);
+}
+
+.text {
+
 }
